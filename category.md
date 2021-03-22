@@ -1,3 +1,5 @@
-# This is my category test markdown
-
-Hello, Jekyll
+---
+layout: category
+title: Category
+permalink: /category/
+---
